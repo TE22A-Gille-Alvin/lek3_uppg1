@@ -1,0 +1,30 @@
+#rubrik{
+    font-family:'Roboto', Verdana;
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2{
+    text-align: center;
+}
+.box-1{
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 2%;
+}
+body{
+    background-image: url("./img/showcase.jpg");
+}
+.bild{
+    text-align: center;
+}
